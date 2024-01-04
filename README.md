@@ -31,6 +31,4 @@ Validation and Interpretation:
 Validated findings through cross-validation and comparison with existing literature.
 Provided biological interpretations of observed trajectories and identified potential key regulators.
 Communication of Results:
-
-Effectively communicated results through written reports, presentations, and visualizations for both technical and non-technical audiences.
 This outline provides a structured and detailed overview of your single-cell RNA trajectory analysis experience using Monocle 3.
