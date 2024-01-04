@@ -19,7 +19,9 @@ library(tidyverse)
 library(Matrix)
 ```
 
-## Read the data
+## Read the data ##
+### Load the data from the 10X Genomics data set###
+### These contain three files, barcode data, features data, expression matrix data ###
 ```{r}
 
 NML_1 = Read10X(data.dir = "../Desktop/Bioinfo Projects/Monocle 3 data/NML1/")
